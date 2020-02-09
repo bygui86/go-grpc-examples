@@ -1,3 +1,6 @@
+
+INFO: these examples come from official [grpc-go library](https://github.com/grpc/grpc-go/tree/master/examples)
+
 gRPC in 3 minutes (Go)
 ======================
 
